@@ -1,0 +1,108 @@
+<!--MENU-->
+  <header>
+    <nav class="navbar navbar-inverse navbar-fixed-top" >
+  <div class="container-fluid">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+      <!--LOGO -->
+      <a class="navbar-brand" href="#"> <alt="" href="#" class="logo">ANGIVELYS </a>
+    </div>
+
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+      
+      
+      <ul class="nav navbar-nav navbar-right menu" >
+       
+        <li><a href="#inicio">INICIO</a></li>
+        <li><a href="#comidas">COMIDAS</a></li>
+        <li><a href="#testimonios">TESTIMONIOS</a></li>
+        <li><a href="#acerca">ACERCA</a></li>
+        <li><a href="#contacto">CONTACTO</a></li>
+        
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>  
+  </header>
+  <!--FIN DEL MENÚ-->
+
+ <div id="inicio"></div>
+
+
+
+
+
+
+
+
+///////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
+<section class="jumbotron" ></section>
+<section>
+<div class="row frases">
+   <br>
+    <div class="col-md-2">
+    <h5 class="text-center"><img class="img responsive" src="https://i.imgur.com/kX18dVT.png" alt="" />
+   Diseño Adaptativo</h5></div>
+    <div class="col-md-2">
+    <h5 class="text-center">
+    <img class="img responsive" src="   https://i.imgur.com/xMpPSer.png " alt=""/>Incrementa ingresos</h5></div>
+    <div class="col-md-2"><h5 class="text-center">
+    <img class="img responsive" src="   https://i.imgur.com/ben7G4t.png" alt=""/>Incrementa ventas</h5></div>
+    <div class="col-md-2"></div>
+    <div class="col-md-2"></div>
+    <div class="col-md-2"></div>
+</div>
+</section>
+
+/////////////////////////segundo////////////////////////////////////////
+
+
+<section class="jumbotron" ></section>
+<section>
+<div class="row frases">
+   <br>
+    <div class="col-md-2">
+    <h5 class="text-center">
+    <img class="img responsive" src="   https://i.imgur.com/IhfONSm.png" alt=""/>Diseño Adaptativo</h5></div>
+    <div class="col-md-2">
+   <h5 class="text-center">
+    <img class="img responsive" src=" https://i.imgur.com/LrY6IsU.png" alt=""/>
+    Incrementa ingresos</h5></div>
+    <div class="col-md-2"><h5 class="text-center">
+    <img class="img responsive" src="https://i.imgur.com/IMunAJa.png" alt=""/>Incrementa ventas</h5></div>
+    <div class="col-md-2"></div>
+    <div class="col-md-2"></div>
+    <div class="col-md-2"></div>
+</div>
+</section>
+
+
+.frases{ height: 110px;
+    background: linear-gradient(white,#ccf5eb);
+}
+
+
+/////////////segundo//////////////////////////
+
+.frases{ height: 110px;
+   /* background: linear-gradient(white,#ccf5eb);*/
+    background-color: #00a799; 
+}
+
+FF583E
+
+sale: https://i.imgur.com/qsA5S6T.png
+
+    /*background: linear-gradient(white,#ccf5eb)*/

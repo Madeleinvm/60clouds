@@ -1,0 +1,60 @@
+@import url(https://fonts.googleapis.com/css?family=Lato|Indie+Flower);
+/*
+font-family: 'Lato', sans-serif;
+font-family: 'Indie Flower', cursive;*/
+
+body{font-family: 'Lato', sans-serif;}
+
+.frases{ height: 110px;
+    //background-color: #ccf5eb; 
+    background: linear-gradient(white,#ccf5eb);
+
+    
+}
+
+.btn{background-color:#00a799;}
+.service{ font-size: 18px;}
+
+h3{color:#00a799;
+  animation-duration: 3s;
+  animation-name: slidein;}
+
+.jumbotron{
+    background-image: url(https://i.imgur.com/7wTUeU4.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;    
+    height:82vh;
+    width: 100%; 
+    text-transform: uppercase;
+    position: relative;
+    font-weight: bold;
+    background-attachment: fixed;
+    margin-bottom: 0px;
+}
+
+h5{ font-weight: bold; 
+color:black;
+font-size:14px;}
+
+
+h2{color:black;}
+
+i{color:#ffb300;}
+span{color:#AB2D32;}
+h4{color:black;}
+
+.linea{background:#00a799;
+    margin:auto;
+    height: 2px;
+    width:90px;
+    display:block;
+    margin-bottom:6px;
+}
+
+footer{
+    margin-top:30px;
+}
+
+
+
